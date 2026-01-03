@@ -1,28 +1,18 @@
-Description
+# Project 01: Rock-Paper-Scissors 🎮
 
-This is a Rock-Paper-Scissors game written in C++.
-The game allows a player to compete against the computer, play multiple rounds, and shows the winner of each round as well as the final game winner. The screen changes color depending on who wins the round or game.
+A fun Rock-Paper-Scissors game in C++! Play against the computer, multiple rounds, and see who wins each round and the final game. The screen changes color depending on the round winner. 🌈
 
-Features
+## Features
+- Player vs Computer 🧑‍💻🤖  
+- Multiple rounds 🔁  
+- Round results display 📊  
+- Final game winner summary 🏆  
+- Colored feedback for wins, losses, and draws 🎨  
 
-Player vs Computer gameplay
+## What I Learned 📝
+- Using **enums** & **structs** to organize game data  
+- Creating **functions** for game logic  
+- Using **loops** and **input validation** 🔄  
+- Generating **random computer choices** 🎲  
+- Displaying dynamic output & console effects (colors, sounds) 🎶
 
-Multiple rounds support
-
-Round results display
-
-Final game results summary
-
-Colored feedback for wins, losses, and draws
-
-What I Learned
-
-Using enums and structs to organize game data
-
-Creating functions to handle game logic (round winner, game winner)
-
-Implementing loops for multiple rounds and user input validation
-
-Generating random computer choices
-
-Displaying dynamic output and using basic console effects (colors, sounds)
